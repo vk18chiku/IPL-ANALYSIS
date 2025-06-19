@@ -56,6 +56,9 @@ Detailed player-wise analysis:
 - Player consistency and standout performances
 - Team head-to-head strengths
 
+## Link of Dashboard 
+- https://app.powerbi.com/view?r=eyJrIjoiMzZkYWE3ZDctY2M5Mi00YjZhLWI4ZGYtNzQxOTEzODgwNTk5IiwidCI6ImI1M2FmNGY3LTE2ZTUtNGJjOC1iNjM5LWZjNTE0YTA0ZDllYiJ9
+
 ## 🧑‍💻 Author
 **Uttam Kumar Mahato**  
 📧 uttammahato379@gmail.com  
